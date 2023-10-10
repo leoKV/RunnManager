@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90175998414",
+    "project_id": "runnermanagerbd",
+    "storage_bucket": "runnermanagerbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90175998414:android:56f782842703458597439f",
+        "android_client_info": {
+          "package_name": "com.example.runnermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90175998414-4rf1fm46hjhagkegaj94jdgvjbimhbtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.runnermanager",
+            "certificate_hash": "743bf0d285f3d948c6494b95ab8ae63a0940f73e"
+          }
+        },
+        {
+          "client_id": "90175998414-cd59j3944coccts45g7vsotkfp051s4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsdyO2YJnT88R07y1eI2Xt0JZVaccqb6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90175998414-cd59j3944coccts45g7vsotkfp051s4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
